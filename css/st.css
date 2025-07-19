@@ -1,0 +1,42 @@
+.navbar-nav {
+    margin-left: 20rem;
+    width: 30%;
+    justify-content: space-between;
+}
+.container-fluid{
+    /* color: green; */
+    background-color: transparent;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.transparent{background-color: transparent;} 
+.green-font{color: rgb(14, 61, 5);}
+.bg-green{background-color: rgb(14, 61, 5);}
+.bg-mint{background-color: #C2EFD4 ;}
+.bg-light {
+    background-color: transparent !important;
+}
+
+.shopping-card {
+    width: 50px;
+    font-size: 20px;
+}
+
+.card-img {
+    background-color: rgb(78, 175, 78);
+    border-radius: 31% 17% 30% 17% / 31% 17% 30% 17%;
+    position: relative;
+    background-image: cover;
+}
+.container{
+    background-color: #C2EFD4;
+}
+.btn{
+    margin-left: 45%;
+}
+.feedback{
+    padding-top: 8rem;
+    margin-bottom: 5rem;
+}
+.all-cards{
+    margin-left: 10rem;
+}
